@@ -20,15 +20,9 @@
  
 󰣇  den1zz  󰉋 󰜥 
 ❯ ls ./projects
-```
+ Term1zz
 
-| Project | Description | Language |
-|---------|-------------|----------|
-| [  Term1zz](https://codeberg.org/Den1zz/Term1zz) | Modular terminal framework managed by GNU Stow | `Shell` |
 
----
-
-```
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ cat ./interests
 
@@ -37,11 +31,8 @@
 > linux ricing             ██████████████  Arch, btw
 > gaming                   ██████████████  any and all
 > open source              ████████████░░  always building
-```
 
----
 
-```
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ cat ./socials
 
@@ -49,11 +40,8 @@
 > Codeberg    https://codeberg.org/Den1zz
 > Twitter     @Den1zzDL
 > Discord     @den1zz_
-```
 
----
 
-```
 󰣇  den1zz  󰉋 󰜥 
 ❯ |
 ```
