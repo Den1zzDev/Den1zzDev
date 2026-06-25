@@ -18,7 +18,7 @@
  │▒▒│ GPU: AMD Radeon 8060S Graphics
  └──┘
  
-󰣇  den1zz  󰉋 󰜥 
+󰣇  den1zz@git  󰉋 󰜥 
 ❯ ls ./projects
  Term1zz
 
@@ -42,6 +42,6 @@
 > Discord     @den1zz_
 
 
-󰣇  den1zz  󰉋 󰜥 
+󰣇  den1zz@git  󰉋 󰜥 
 ❯ |
 ```
