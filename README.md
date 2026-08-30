@@ -20,7 +20,7 @@
  
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ ls ./projects
- Term1zz
+ Term1zz  󰖟 den1zz.dev  󰖟 ralite.dev
 
 
 󰣇  den1zz@git  󰉋 󰜥 
@@ -36,6 +36,8 @@
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ cat ./socials
 
+> Website     https://den1zz.dev
+> RaliteLabs  https://ralite.dev
 > GitHub      https://github.com/Den1zzDev
 > Codeberg    https://codeberg.org/Den1zz
 > Matrix      @den1zz:ralite.dev
