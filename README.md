@@ -20,7 +20,7 @@
  
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ ls ./projects
- Term1zz  󰖟 den1zz.dev  󰖟 ralite.dev
+ tools.ralite.dev  󰖟 qr.den1zz.dev  󰖟 time.ralite.dev
 
 
 󰣇  den1zz@git  󰉋 󰜥 
