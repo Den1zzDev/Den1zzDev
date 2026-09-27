@@ -20,7 +20,7 @@
  
 󰣇  den1zz@git  󰉋 󰜥 
 ❯ ls ./projects
-󰖟 tools.ralite.dev   qr.den1zz.dev  󰖟 time.ralite.dev
+󰖟 tools.ralite.dev   qr.den1zz.dev  󰖟 time.ralite.dev   sdl-wayland-tweaks   Term1zz (Reborn)
 
 
 󰣇  den1zz@git  󰉋 󰜥 
