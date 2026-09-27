@@ -10,7 +10,7 @@
  │██│ Languages Known: Rust, Python, Go, Shell
  │██│ Learning: Zig, C++ 
  │██│ DE/WM: KDE, COSMIC, Niri
- │██│ Projects: 1 (Codeberg), 1 (GitHub)
+ │██│ Projects: 3 (Den1zzDev), 2 (Ralite Labs)
  │██│ Terminal: README.md
  │██│ Memory: 67 GiB / idk GiB
  │██│ Shell: fish
